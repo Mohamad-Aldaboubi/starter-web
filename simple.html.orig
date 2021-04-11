@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <!--
 copyright2014 git.training
+<<<<<<< HEAD
+fdsksmlkfmklmfklmfkldfs
+=======
+adding changes before rebasing conflicts
+hklshlkhslhvlvh[klsdkl;sd
+>>>>>>> 03f3f0c (fb adding some trouble to simple.html)
 -->
 <head>
-<<<<<<< HEAD
-	<title>A very respectfull website</title>
-=======
-	<title> A Great Website </title>
->>>>>>> realwork
+	<title>Asilly changes on master</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,21 +21,19 @@ copyright2014 git.training
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- junk filler content-->
 		<p>
 <<<<<<< HEAD
-			im not sure what will go here
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; jason taylor 2014</p>
+			just stuff for now 
+			kklhjhjghjghfgdjhdflkdfshhfdhxlk;
 =======
-			some intersting things bla bla 
+			some intersting things bla bla  
+			f.mflk;kdnkldnkldndkl
+>>>>>>> 03f3f0c (fb adding some trouble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; git training</p>
->>>>>>> realwork
+		<p>&copy; Company 2014</p>
 	</footer>
 </body>
 </html>
