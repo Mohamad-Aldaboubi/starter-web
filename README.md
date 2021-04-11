@@ -17,7 +17,7 @@ hghjghjgytttgghghjhhghjgjgkjlghghjfgvhj
 ghghgvhghjglg
 
 ##how to contribute
-
+please fork this repository and then issue pull request for review
 
 ###copyright
 
