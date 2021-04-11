@@ -17,3 +17,8 @@ hghjghjgytttgghghjhhghjgjgkjlghghjfgvhj
 ghghgvhghjglg
 
 ##how to contribute
+
+
+###copyright
+
+2014 git.training.
