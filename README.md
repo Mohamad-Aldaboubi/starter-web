@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 this is simple web site project 
+adding aline for rebasing example
 ##introduction
 
 gfhghvghjkllghgyyutgyftfyufkjghfjhfhghjcl/
